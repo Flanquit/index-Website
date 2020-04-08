@@ -1,0 +1,218 @@
+@media (max-width: 991px) {
+    .rep-search-bar {
+        display: none;
+    }    
+
+    .services-container {
+        display: none;
+    }
+}
+
+
+.dropdown-level {
+    margin: 8px 0;
+}
+
+.dropdown-level label {
+    font-size: 21px;
+    vertical-align: middle;
+}
+
+.dropdown-level select {
+    padding: 2px 0 2px 3px;
+    font-family: "Century Gothic";
+    font-size: 13px;
+
+    text-overflow: '';
+    border: 1px solid #dadada;
+    box-sizing: border-box;
+    color: #333;
+    cursor: pointer;
+    display: block;
+    outline: 0;
+    position: relative;
+    text-indent: .01px;
+    vertical-align: middle;
+    z-index: 5;
+    margin: 0;
+    border-radius: 0;
+}
+
+.dropdown-level .select-arrow {
+    height: 27px;
+    width: 27px;
+    line-height: 27px;
+    bottom: 1px;
+    right: 17px;
+}
+
+@media (min-width: 992px)
+{
+    .dropdown-level .select-arrow {
+        bottom: 3px;
+    }
+}
+
+h1.rep-header {
+    margin: 16px 0 0 0;
+}
+@media (max-width: 991px) {
+	h1.rep-header {
+		font-size: 24px!important;
+	}
+}
+
+
+.rep-container {
+    width: 100%;
+    overflow-x: auto;
+    border: solid 1px #a5a5a5;
+    margin: 16px 0 32px 0;
+}
+
+.rep-container .rep-header {
+    padding: 0;
+}
+
+.rep-container .type-header {
+    width: 100%;
+    background-color: #f3f3f3;
+    padding: 7px 16px;
+    margin: 0;
+}
+
+.rep-container .type-header.featured-partner {
+    background-color: #CC4036;
+    color: #fff;
+}
+
+.rep-container .type-header.platinum-partner {
+    background-color: #63D0DF;
+    color: #fff;
+}
+
+.rep-container .type-header.gold-partner {
+    background-color: #FF9933;
+    color: #fff;
+}
+
+.rep-container .type-header.national-partner {
+    background-color: #256193;
+    color: #fff;
+}
+
+.rep-container table.table {
+    width: 100%;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.rep-container .table>thead>tr>th {
+    border-bottom: none;
+    padding: 16px;
+    text-align: left;
+}
+
+.rep-container .table>tbody>tr>td {
+    padding: 16px;
+    /*white-space: nowrap;*/
+    overflow: hidden;
+}
+
+.rep-container .table>tbody>tr>td .logo {
+    max-width: 100px;
+}
+
+.hidden {
+    display: none;
+}
+
+.services-container input[type=checkbox], .tier-container input[type=radio] {
+    display: none;
+}
+
+.services-container .fa, .tier-container .fa {
+    color: #333;
+}
+
+.tier-container sup.fa,
+.tier-container sup.fa:before{
+    width: 20px;
+    height: 20px;
+    display: inline-block
+}
+.tier-container sup.fa {
+    margin-left: 10px;
+}
+
+
+/***************************
+***** Responsive Tables*****
+****************************/
+
+@media only screen  and (max-width: 1023px)  {
+    .services-container {
+        display: none!important;
+    }
+
+    /* Force table to not be like tables anymore */
+    .rep-container table,
+    .rep-container thead,
+    .rep-container tbody,
+    .rep-container th,
+    .rep-container td,
+    .rep-container tr {
+        display: block;
+        width: 100%!important;
+    }
+
+    /* Hide table headers (but not display: none;, for accessibility) */
+    .rep-container thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    .rep-container tr {
+        /* margin: 0 0 1rem 0; */
+    }
+      
+    .rep-container tr:nth-child(odd) td {
+        background: #DCDCDC!important;
+    }
+    
+    .rep-container td {
+        /* Behave  like a "row" */
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        /* padding-left: 50%; */
+    }
+
+    .rep-container td::before {
+        /* Now like a table header */
+        /* position: absolute; */
+        /* Top/left values mimic padding */
+        /* top: 0; */
+        /* left: 6px; */
+        /* width: 45%; */
+        /* padding-right: 10px; */
+        /* white-space: nowrap; */
+        font-weight: bold;
+        display: inline-block;
+        margin-right: 5px;
+    }
+
+
+
+
+    .rep-container td.col-company::before { content: "Company: "; }
+    .rep-container td.col-url::before { content: "Website: "; }
+    .rep-container td.col-city::before { content: "Location: "; }
+    .rep-container td.col-phone::before { content: "Phone: "; }
+
+    .rep-container td.col-phone {
+        display: none;
+    }
+
+}
