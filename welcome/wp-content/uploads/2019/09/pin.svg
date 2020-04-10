@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="66px" viewBox="0 0 40 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,54 C16.359976,54 28,33.5293506 28,21.6 C28,9.6706494 21.7319865,0 14,0 C6.2680135,0 -1.95399252e-14,9.6706494 -1.95399252e-14,21.6 C-1.95399252e-14,33.5293506 11.640024,54 14,54 Z" id="path-1"></path>
+        <filter x="-32.1%" y="-13.0%" width="164.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.306357563 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="work" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contact-us-copy-3" transform="translate(-826.000000, -1055.000000)">
+            <g id="Pins" transform="translate(294.000000, 901.000000)">
+                <g id="Group-5-Copy-5" transform="translate(538.000000, 158.000000)">
+                    <g id="Group-11">
+                        <g id="Oval">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <path stroke="#FFFFFF" stroke-width="2" d="M14,55 C10.0343102,55 -1,32.2468565 -1,21.6 C-1,9.18586456 5.60194925,-1 14,-1 C22.3980507,-1 29,9.18586456 29,21.6 C29,32.2468565 17.9656898,55 14,55 Z" fill="#CB4C2E" fill-rule="evenodd"></path>
+                        </g>
+                        <ellipse id="Oval" fill="#FFFFFF" cx="14" cy="16.2" rx="6.46153846" ry="6.48"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
