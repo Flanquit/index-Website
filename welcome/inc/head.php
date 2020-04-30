@@ -2,7 +2,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Promethean | Interactive Displays &amp; Screens for Education</title>
+	<title>Index | Technologies &amp; Harare Zimbabwe</title>
 <style type="text/css" id="nab-alternative-loader-style"></style>
 <script type="text/javascript">/* <![CDATA[ */( function() { function hideContent() { var element = document.getElementById( 'nab-alternative-loader-style' ); if ( ! element ) { return; } var style = 'html, body, body * { display:none !important; }'; if ( element.styleSheet ) { element.styleSheet.cssText = style; } else { element.innerHTML = ''; element.appendChild( document.createTextNode( style ) ); } } hideContent(); function createReadyFunction( name, event ) { var queue = []; var hasEventBeenTriggered = false; window[ name ] = function( fn ) { if ( hasEventBeenTriggered ) { fn(); } else { queue.push( fn ); } }; function runQueue() { document.removeEventListener( event, runQueue ); hasEventBeenTriggered = true; queue.reverse(); while ( queue.length ) { var fn = queue.pop(); fn(); } } document.addEventListener( event, runQueue ); } createReadyFunction( 'onNabAltLoaderInitAvailable', 'nab-alt-loader-init-available' ); createReadyFunction( 'onNabValidContent', 'nab-valid-content' ); createReadyFunction( 'onNabMainInitAvailable', 'nab-main-init-available' ); createReadyFunction( 'onNabMainReady', 'nab-main-ready' ); window.onNabValidContent( function() { var element = document.getElementById( 'nab-alternative-loader-style' ); if ( ! element ) { return; } element.parentNode && element.parentNode.removeChild( element ); } ); } )(); /* ]]> */</script>
 
@@ -17,7 +17,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="index technologie" />
 <meta property="og:description" content="index technologies empowers countries, communities, customers and people everywhere, to use technology and realize their dreams whether they’re at home, work, school or anywhere in their world. " />
-<meta property="og:url" content="https://www.prometheanworld.com/" />
+<meta property="og:url" content="https://www.alpham.co.zw/" />
 <meta property="og:site_name" content="index technologie" />
 <meta property="og:image" content="https://cdn.prometheanworld.com/wp-content/uploads/2018/08/PRW-2018-FB-OG-Share-Image-SM.jpg" />
 <meta property="og:image:secure_url" content="https://cdn.prometheanworld.com/wp-content/uploads/2018/08/PRW-2018-FB-OG-Share-Image-SM.jpg" />
@@ -33,8 +33,9 @@
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="Promethean World &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Promethean World &raquo; Comments Feed" href="comments/feed/index.html" />
-<link rel="alternate" type="text/calendar" title="Promethean World &raquo; iCal Feed" href="event/indexedf3.html?ical=1" />
-					<link rel="shortcut icon" href="../cdn.prometheanworld.com/wp-content/uploads/2017/11/PRW-Favicon.png" type="image/x-icon" />
+<link rel="alternate" type="text/calendar" title="Index Technologies &raquo; iCal Feed" href="event/indexedf3.html?ical=1" />
+
+<link rel="shortcut icon" href="#" type="image/x-icon" />
 		
 					<!-- For iPhone -->
 			<link rel="apple-touch-icon" href="../cdn.prometheanworld.com/wp-content/uploads/2017/11/PRW-Apple-iPhone-icon.png">
