@@ -935,7 +935,7 @@ body.tribe_events-template-default .fusion-sharing-box {
 }
 
 #background-orange-to-red {
-    background: linear-gradient( to right, #0C4682, #143C69) !important;
+    background-image: url(../../../../welcome/img/back.jpg) !important;
 }
 
 

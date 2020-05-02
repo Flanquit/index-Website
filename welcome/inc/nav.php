@@ -36,20 +36,19 @@
                     </style>
 
                 <li  id="menu-item-1019"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1019 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%;">
-                            <div class='fusion-megamenu-title'>
-                                <a href="#" >
-                                <span class="fusion-megamenu-icon fusion-megamenu-thumbnail">
-                                    <img src="img/menu/interactive.png" alt="Interactive Displays" title="Interactive Displays Icon">
-                                </span><span class="new">.</span> <b id="menuheadings">Interactive Displays</b>
-                                </a>
-                            </div>
 
+                <div class='fusion-megamenu-title'>
+                            <a href="studentdevice.php"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/rugged.png" alt="Accessories" title="Accessories Icon"></span><b id="menuheadings">Student Devices</b></a>
+                        </div>
+
+
+                           
                 
                 </li>
                     
                 <li  id="menu-item-1020"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1020 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%; ">
                 
-                        <div class='fusion-megamenu-title'><a href="#"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/projectors.png" alt="Software" title="Software Icon"></span><b id="menuheadings">Projectors & Digital Display Systems</b></a></div>
+                        <div class='fusion-megamenu-title'><a href="Projectors.php"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/projectors.png" alt="Software" title="Software Icon"></span><b id="menuheadings">Projectors & Digital Display Systems</b></a></div>
                         
                     
                 </li>
@@ -60,16 +59,21 @@
                 
                 <li  id="menu-item-1018"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1018 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%;">
 
-                        <div class='fusion-megamenu-title'>
-                            <a href="#"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/rugged.png" alt="Accessories" title="Accessories Icon"></span><b id="menuheadings">Rugged Devices</b></a>
-                        </div>
+                <div class='fusion-megamenu-title'>
+                                <a href="InteractiveDisplays.php" >
+                                <span class="fusion-megamenu-icon fusion-megamenu-thumbnail">
+                                    <img src="img/menu/interactive.png" alt="Interactive Displays" title="Interactive Displays Icon">
+                                </span><span class="new">.</span> <b id="menuheadings">Interactive Displays</b>
+                                </a>
+                            </div>
+
                 
                 </li>
                     
                 <li  id="menu-item-1021"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1021 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%;">
                 
                     <div class='fusion-megamenu-title'>
-                        <a href="#"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/networking.png" alt="Professional Development" title="Professional Development Icon"></span><b id="menuheadings">Networking </b></a>
+                        <a href="#"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/networking.png" alt="Professional Development" title="Professional Development Icon"></span><b id="menuheadings">Development </b></a>
                     </div>
                 
                     </li>
@@ -78,7 +82,7 @@
                     <li  id="menu-item-1021"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1021 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%;">
                             
                             <div class='fusion-megamenu-title'>
-                                <a href="#"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/virtual-reality.png" alt="Professional Development" title="Professional Development Icon"></span><b id="menuheadings">Virtual Reality</b></a></div>
+                                <a href="vitualreality.php"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/virtual-reality.png" alt="Professional Development" title="Professional Development Icon"></span><b id="menuheadings">Virtual Reality</b></a></div>
                        
                     </li>
 
@@ -104,7 +108,7 @@
 
 <li  id="menu-item-24"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24 fusion-megamenu-menu"  data-item-id="24">
 
-<a  href="#" class="fusion-background-highlight">
+<a  href="advocate.php" class="fusion-background-highlight">
 <span class="menu-text">Who we are</span>
 </a>
 <div class="fusion-megamenu-wrapper fusion-columns-4 columns-per-row-4 columns-4 col-span-8">
@@ -114,7 +118,7 @@
 
         <li  id="menu-item-1019"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1019 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%;">
                     <div class='fusion-megamenu-title'>
-                        <a href="#">
+                        <a href="about.php">
                         <span class="fusion-megamenu-icon fusion-megamenu-thumbnail">
                             <img src="img/menu/about.png" alt="Interactive Displays" title="Interactive Displays Icon">
                         </span><span class="new"></span> <b id="menuheadings">About Us</b>
@@ -126,10 +130,12 @@
             
         <li  id="menu-item-1020"  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1020 fusion-megamenu-submenu fusion-megamenu-columns-4 col-lg-3 col-md-3 col-sm-3"  style="width:25%;">
         
-                <div class='fusion-megamenu-title'><a href="#"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/advocate.png" alt="Software" title="Software Icon"></span> <b id="menuheadings">What We Advocate</b></a></div>
+                <div class='fusion-megamenu-title'><a href="advocate.php"><span class="fusion-megamenu-icon fusion-megamenu-thumbnail"><img src="img/menu/advocate.png" alt="Software" title="Software Icon"></span> <b id="menuheadings">What We Advocate</b></a></div>
                 
             
         </li>
+
+        
 
 
             
@@ -151,11 +157,11 @@
 
 
 
-<li  id="menu-item-159"  class="h2bmnav menu-item menu-item-type-post_type menu-item-object-page menu-item-159"  data-classes="h2bmnav" data-item-id="159"><a  href="#" class="fusion-background-highlight"><span class="menu-text">Buying Process</span></a></li>
+<li  id="menu-item-159"  class="h2bmnav menu-item menu-item-type-post_type menu-item-object-page menu-item-159"  data-classes="h2bmnav" data-item-id="159"><a  href="howtobuy.php" class="fusion-background-highlight"><span class="menu-text">Our Process</span></a></li>
 
 
 
-<li  id="menu-item-26"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"  data-item-id="26"><a  target="_blank" rel="noopener noreferrer" href="#" class="fusion-background-highlight"><span class="menu-text">Contact Us</span></a></li>
+<li  id="menu-item-26"  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"  data-item-id="26"><a rel="noopener noreferrer" href="contact.php" class="fusion-background-highlight"><span class="menu-text">Contact Us</span></a></li>
 
 
 

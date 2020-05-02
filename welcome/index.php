@@ -46,7 +46,7 @@
 								data-frame_1="tp:600;st:200;sp:1000;sR:200;"
 								data-frame_999="o:0;tp:600;st:w;sR:7800;"
 								style="z-index:5;font-family:Nunito Sans;"
-							>An integrated Tech Company  
+							>Artificial Intelligence
 							</rs-layer>
 							
 							<!--
@@ -63,7 +63,7 @@
 								data-frame_1="tp:600;st:300;sp:1000;sR:300;"
 								data-frame_999="o:0;tp:600;st:w;sR:7700;"
 								style="z-index:6;font-family:Nunito Sans;padding:10px 0;box-sizing:border-padding;"
-							>Bridging the gap between state-of-the-art products and a state-of-the-art user experience.  
+							>Artificial Intelligence for Good (AI for Good)  
 							</rs-layer><!--
 
 							--><rs-layer
@@ -82,7 +82,7 @@
 								data-frame_999="o:0;tp:600;st:w;sR:8690;"
 								data-frame_hover="bgc:#0C4682;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
 								style="z-index:7;background-color:#080A0C;font-family:Nunito Sans;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-							>About Us 
+							>We create intelligent
 							</rs-layer><!--
 
 							--><rs-layer
@@ -113,7 +113,7 @@
 								data-frame_1="tp:600;st:200;sp:1000;sR:200;"
 								data-frame_999="o:0;tp:600;st:w;sR:7800;"
 								style="z-index:5;font-family:Nunito Sans;"
-							>Empowers countries, communities, customers  </br>
+							>Best technologies</br>
 
 							</rs-layer><!--
 
@@ -129,7 +129,7 @@
 								data-frame_1="tp:600;st:300;sp:1000;sR:300;"
 								data-frame_999="o:0;tp:600;st:w;sR:7700;"
 								style="z-index:6;font-family:Nunito Sans;padding:10px 0;box-sizing:border-padding;"
-							> and people everywhere,to use technology and realize their dreams whether they’re at home, work, school or anywhere in their world. 
+							> Index ensures that we strive for access to the best technologies to change the world
 							</rs-layer><!--
 
 							--><!--
@@ -148,8 +148,8 @@
 							><img src="img/second.png" width="1192" height="811" data-no-retina> 
 							</rs-layer><!--
 -->						</rs-slide>
-						<rs-slide data-key="rs-121" data-title="Elements Program" data-thumb="img/header2.png" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
-							<img src="img/header2.png" alt="background image" title="Elements-swoop-bg" width="1368" height="700" data-bg="p:center bottom;f:100% 100%;" class="rev-slidebg" data-no-retina>
+						<rs-slide data-key="rs-121" data-title="Elements Program" data-thumb="img/header.png" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="img/header.png" alt="background image" title="Elements-swoop-bg" width="1368" height="700" data-bg="p:center bottom;f:100% 100%;" class="rev-slidebg" data-no-retina>
 <!--
 							--><rs-layer
 								id="slider-7-slide-121-layer-1" 
@@ -162,7 +162,7 @@
 								data-frame_1="tp:600;st:200;sp:1000;sR:200;"
 								data-frame_999="o:0;tp:600;st:w;sR:7800;"
 								style="z-index:5;font-family:Nunito Sans;"
-							>Our innovative products help people to find ways to be 
+							>Intelligent, ethical and scalable technologies. 
 							</rs-layer><!--
 
 							--><rs-layer
@@ -177,7 +177,7 @@
 								data-frame_1="tp:600;st:300;sp:1000;sR:300;"
 								data-frame_999="o:0;tp:600;st:w;sR:7700;"
 								style="z-index:7;font-family:Nunito Sans;padding:10px 0;box-sizing:border-padding;"
-							>more successful, more efficient, more collaborative, and find more enjoyment in their work.
+							>We create intelligent, ethical and scalable technologies for a better, fairer world.
 							</rs-layer><!--
 
 							--><rs-layer
@@ -213,8 +213,8 @@
 							><img src="img/ragid.png" alt="Experience the Elements" width="960" height="663" data-no-retina> 
 							</rs-layer><!--
 -->						</rs-slide>
-						<rs-slide data-key="rs-109" data-title="State of Tech" data-thumb="img/header2.png" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
-							<img src="img/header2.png" title="Astro-girl-swoop-bg" width="1368" height="700" data-bg="p:center bottom;f:100% 100%;" class="rev-slidebg" data-no-retina>
+						<rs-slide data-key="rs-109" data-title="State of Tech" data-thumb="img/header.png" data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:d;">
+							<img src="img/header.png" title="Astro-girl-swoop-bg" width="1368" height="700" data-bg="p:center bottom;f:100% 100%;" class="rev-slidebg" data-no-retina>
 <!--
 							--><rs-layer
 								id="slider-7-slide-109-layer-1" 
@@ -227,7 +227,7 @@
 								data-frame_1="tp:600;st:200;sp:1000;sR:200;"
 								data-frame_999="o:0;tp:600;st:w;sR:7800;"
 								style="z-index:5;font-family:Nunito Sans;"
-							>We design, assemble market and support 
+							>Engineering initiatives to build the AI ecosystem.
 							</rs-layer><!--
 
 							--><rs-layer
@@ -242,6 +242,7 @@
 								data-frame_999="o:0;tp:600;st:w;sR:7800;"
 								style="z-index:6;font-family:Nunito Sans;"
 							>
+						
 							</rs-layer><!--
 
 							--><rs-layer
@@ -256,27 +257,11 @@
 								data-frame_1="tp:600;st:300;sp:1000;sR:300;"
 								data-frame_999="o:0;tp:600;st:w;sR:7700;"
 								style="z-index:7;font-family:Nunito Sans;padding:10px 0;box-sizing:border-padding;"
-							>reliable digital electronics, efficiently and responsibly
-							</rs-layer><!--
+							>Through RnD and our engineering initiatives to build the AI ecosystem, we are working to use Artificial Intelligence to address challenges societies face.
+							</rs-layer>
+							<!--
 
-							--><rs-layer
-								id="slider-7-slide-109-layer-29" 
-								class="rev-btn"
-								data-type="button"
-								data-color="rgba(255,255,255,1)"
-								data-xy="x:l,l,c,c;xo:80px,40px,0,0;yo:307px,293px,319px,210px;"
-								data-text="s:17;l:17;fw:200,400,400,400;a:inherit;"
-								data-actions='o:click;a:simplelink;target:_self;url:http://localhost/index.php;'
-								data-rsp_bd="off"
-								data-padding="t:12;r:35;b:12;l:35;"
-								data-border="bor:3px,3px,3px,3px;"
-								data-frame_0="tp:600;"
-								data-frame_1="tp:600;"
-								data-frame_999="o:0;tp:600;st:w;sR:8700;"
-								data-frame_hover="bgc:#0C4682;boc:#000;bor:3px,3px,3px,3px;bos:solid;oX:50;oY:50;sp:0;"
-								style="z-index:8;background-color:#080A0C;font-family:Nunito Sans;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"
-							>Download Company Profile 
-							</rs-layer><!--
+							--><!--
 
 							--><rs-layer
 								id="slider-7-slide-109-layer-34" 
@@ -330,23 +315,44 @@
 				
 				<div class="fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one" style="margin-top:0px;margin-bottom:31px;">
 				
-				<h1 class="title-heading-center" style="margin:0;"><span style="font-size: 30px;">About Index Technologies</span></h1>
+				<h1 class="title-heading-center" style="margin:0;"><span style="font-size: 30px;">Products</span></h1>
 			</div>
 			
 			<div class="fusion-clearfix"></div>
 			
-			<div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-1 fusion-one-third fusion-column-first 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span style="width:100%;max-width:70%;" class="fusion-imageframe imageframe-none imageframe-1 hover-type-none"><a class="fusion-no-lightbox" href="#" target="_self" aria-label="Interactive-Displays-ISTE"><img src="img/second.png" width="400" height="267" alt="" class="img-responsive wp-image-847357" srcset="img/second.png 200w, img/second.png 400w" sizes="(max-width: 800px) 100vw, 400px" /></a></span></div><div class="fusion-text">
-<p>We are an integrated Tech company like no other, Our mission of bridging the gap between state-of-the-art products and a state-of-the-art user experience</p>
-</div><div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css">.fusion-button.button-1 {border-radius:25px;}</style><a class="fusion-button button-flat fusion-button-default-size button-default button-1 fusion-button-default-span fusion-button-default-type intdisplay-btn" target="_self" href="#" id="red-btn"><span class="fusion-button-text">Learn More</span></a></div><div class="fusion-clearfix"></div>
-
-<div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-2 fusion-one-third 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span style="width:100%;max-width:70%;" class="fusion-imageframe imageframe-none imageframe-2 hover-type-none"><a class="fusion-no-lightbox" href="#" target="_self" aria-label="2019-Lesson-Delivery"><img src="img/second.png" width="399" height="262" alt="" class="img-responsive wp-image-708156" srcset="img/second.png 200w, img/second.png 399w" sizes="(max-width: 800px) 100vw, 399px" /></a></span></div><div class="fusion-text">
-<p>We empower countries, communities, customers and people everywhere, to use technology and realize their dreams whether they’re at home, work, school. 
+			<div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-1 fusion-one-third fusion-column-first 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span style="width:100%;max-width:70%;" class="fusion-imageframe imageframe-none imageframe-1 hover-type-none"><a class="fusion-no-lightbox" href="studentdevice.php" target="_self" aria-label="Interactive-Displays-ISTE"><img src="img/StudentDevice.png" width="400" height="267" alt="" class="img-responsive wp-image-847357" srcset="img/StudentDevice.png 200w, img/StudentDevice.png 400w" sizes="(max-width: 800px) 100vw, 400px" /></a></span></div>
+			<br/>
+			<h3 style="font-size:20px; " ><b>Index Rugged Student Devices</b></h3><div class="fusion-text">
+<p>Purpose-built for Education
+Index Rugged Student designed to provide a mobile learning experience. 
+The long battery life supports the mobility aspect of the device, allowing it to go the entire school day. 
+The touch screen works with the thin-tip stylus pen to deliver more precision in every task. It also comes with a protective cover with stand option for added stability.
 </p>
-</div><div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css">.fusion-button.button-2 {border-radius:25px;}</style><a class="fusion-button button-flat fusion-button-default-size button-default button-2 fusion-button-default-span fusion-button-default-type teachsoft-btn" target="_self" href="#" id="red-btn"><span class="fusion-button-text">Learn More</span></a></div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-3 fusion-one-third fusion-column-last 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span style="width:100%;max-width:70%;" class="fusion-imageframe imageframe-none imageframe-3 hover-type-none"><a class="fusion-no-lightbox" href="#" target="_self" aria-label="PD-image-Homepage"><img src="img/second.png" width="400" height="267" alt="" class="img-responsive wp-image-708182" srcset="img/second.png 200w, img/second.png 400w" sizes="(max-width: 800px) 100vw, 400px" /></a></span></div><div class="fusion-text">
-<p>Our innovative products help people to find ways to be more successful, more efficient, more collaborative, and find more enjoyment in their work</p>
+</div><div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css">.fusion-button.button-1 {border-radius:25px;}</style>
+
+<!-- <a class="fusion-button button-flat fusion-button-default-size button-default button-1 fusion-button-default-span fusion-button-default-type intdisplay-btn" target="_self" href="#" id="red-btn"><span class="fusion-button-text">Learn More</span> -->
+
+
+</a></div><div class="fusion-clearfix"></div>
+
+<div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-2 fusion-one-third 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span style="width:100%;max-width:70%;" class="fusion-imageframe imageframe-none imageframe-2 hover-type-none"><a class="fusion-no-lightbox" href="InteractiveDisplays.php" target="_self" aria-label="2019-Lesson-Delivery"><img src="img/smartboard.jpg" width="399" height="262" alt="" class="img-responsive wp-image-708156" srcset="img/smartboard.jpg 200w, img/smartboard.jpg 399w" sizes="(max-width: 800px) 100vw, 399px" /></a></span></div>
+<br/><br/>
+<h3 style="font-size:20px; " ><b>Index Smart Touch </b></h3><div class="fusion-text">
+<p>The Index Smart Touch is a ruggedized multitouch display available in  55”, 65” , 75” 90” sizes. The Presenter has an all-aluminum frame with a patented design, and it uses the best available commercial components.The Index Smart Touch has a 4K Ultra Led display rated for 24/7 operation and bezel-less.
+ 
+ 
+</p>
+</div><div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css">.fusion-button.button-2 {border-radius:25px;}</style>
+
+
+</div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_3 fusion-builder-column-3 fusion-one-third fusion-column-last 1_3"  style='margin-top:0px;margin-bottom:0px;width:33.33%;width:calc(33.33% - ( ( 4% + 4% ) * 0.3333 ) );'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span style="width:100%;max-width:70%;" class="fusion-imageframe imageframe-none imageframe-3 hover-type-none"><a class="fusion-no-lightbox" href="InteractiveDisplays.php" target="_self" aria-label="PD-image-Homepage"><img src="img/keosk.jpg" width="400" height="267" alt="" class="img-responsive wp-image-708182" srcset="img/keosk.jpg 200w, img/keosk.jpg 400w" sizes="(max-width: 800px) 100vw, 400px" /></a></span></div><br/>
+<h3 style="font-size:20px; " ><b>Information Kiosk and Digital Displays</b></h3><div class="fusion-text">
+<p>Interactive Information Kiosk.
+Provide real-time information to your customers, visitors and staff with a touch screen, interactive information kiosk. Digital kiosks improve user engagement and experience, no matter what environment - from a reception kiosk in your business to a wayfinding directory kiosk in a shopping center.
+</p>
 </div>
 
-<div class="fusion-button-wrapper fusion-aligncenter"><style type="text/css">.fusion-button.button-3 {border-radius:25px;}</style><a class="fusion-button button-flat fusion-button-default-size button-default button-3 fusion-button-default-span fusion-button-default-type profdev-btn" target="_self" href="#" id="red-btn"><span class="fusion-button-text">Learn More</span></a></div><div class="fusion-clearfix"></div>
+
 
 <div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div>
 
@@ -368,14 +374,20 @@
 
 
 
-<div id="background-orange-to-red" class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-ie-mode nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:7%;padding-right:8%;padding-bottom:5%;padding-left:8%;'><div class="fusion-builder-row fusion-row "><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-16 fusion-one-fourth fusion-column-first 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-9 hover-type-none svg-150-pp"><img src="https://cdn.prometheanworld.com/wp-content/uploads/2017/09/Icon-52-countries.svg"   alt="1 Million+ Classrooms" title="1 Million+ Classrooms" class="img-responsive wp-image-325"/></span></div><div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">1 Million+ Classrooms with Index Techlogogies Interactive Displays</span></p>
-</div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-17 fusion-one-fourth 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-10 hover-type-none svg-150-pp"><img src="../cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2%404x-300x238.png" width="300" height="238" alt="4.5 Million+ Teachers &amp; Students" title="4.5 Million+ Teachers &#038; Students" class="img-responsive wp-image-1073" srcset="https://cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2@4x-200x159.png 200w, https://cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2@4x-400x318.png 400w, https://cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2@4x.png 594w" sizes="(max-width: 800px) 100vw, 300px" /></span></div><div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">Index Solutions Provide this and that , smart boards and so on</span></p>
-</div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-18 fusion-one-fourth 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-11 hover-type-none svg-150-pp"><img src="https://cdn.prometheanworld.com/wp-content/uploads/2017/09/icon-users-.svg"   alt="50,000+ Schools in 154 Countries" title="50,000+ Schools in 154 Countries" class="img-responsive wp-image-327"/></span></div><div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">50,000+ Schools in 154 Countries Using Index Techlnologies Solutions</span></p>
+<div id="background-orange-to-red" class="fusion-fullwidth fullwidth-box fusion-builder-row-8 fusion-ie-mode nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-no-small-visibility"  style='background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:7%;padding-right:8%;padding-bottom:5%;padding-left:8%;'><div class="fusion-builder-row fusion-row ">
+	
+<div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-16 fusion-one-fourth fusion-column-first 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );margin-right: 4%;'>
+
+<div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url="">
+
+<div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-9 hover-type-none svg-150-pp"><img src="https://cdn.prometheanworld.com/wp-content/uploads/2017/09/Icon-52-countries.svg"   alt="1 Million+ Classrooms" title="1 Million+ Classrooms" class="img-responsive wp-image-325"/></span></div><div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">index technologies empowers countries, communities, customers and people everywhere, to use technology and realize their dreams whether they’re at home, work, school or anywhere in their world. </span></p>
+</div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-17 fusion-one-fourth 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-10 hover-type-none svg-150-pp"><img src="../cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2%404x-300x238.png" width="300" height="238" alt="4.5 Million+ Teachers &amp; Students" title="4.5 Million+ Teachers &#038; Students" class="img-responsive wp-image-1073" srcset="https://cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2@4x-200x159.png 200w, https://cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2@4x-400x318.png 400w, https://cdn.prometheanworld.com/wp-content/uploads/2018/01/RTB-icon-2@4x.png 594w" sizes="(max-width: 800px) 100vw, 300px" /></span></div><div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">Our innovative products help people to find ways to be more successful, more efficient, more collaborative, and find more enjoyment in their work.</span></p>
+</div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div><div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-18 fusion-one-fourth 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );margin-right: 4%;'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-11 hover-type-none svg-150-pp"><img src="https://cdn.prometheanworld.com/wp-content/uploads/2017/09/icon-users-.svg"   alt="50,000+ Schools in 154 Countries" title="50,000+ Schools in 154 Countries" class="img-responsive wp-image-327"/></span></div><div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">Our mission of bridging the gap between state-of-the-art products and a state-of-the-art user experience. </span></p>
 </div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div>
 
 <div  class="fusion-layout-column fusion_builder_column fusion_builder_column_1_4 fusion-builder-column-19 fusion-one-fourth fusion-column-last 1_4"  style='margin-top:0px;margin-bottom:0px;width:25%;width:calc(25% - ( ( 4% + 4% + 4% ) * 0.25 ) );'><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;"   data-bg-url=""><div class="imageframe-align-center"><span class="fusion-imageframe imageframe-none imageframe-12 hover-type-none svg-150-pp"><img src="https://cdn.prometheanworld.com/wp-content/uploads/2017/09/icon-users-.svg"   alt="20 Years of Experience" title="20 Years of Experience" class="img-responsive wp-image-324"/></span></div>
 
-<div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">20 Years of Experience Implementing Interactive Displays for Education</span></p>
+<div class="fusion-text"><p style="text-align: center;"><span style="color: #ffffff;">We are an integrated Tech company like no other</span></p>
 </div><div class="fusion-clearfix"></div><div class="fusion-column-wrapper" style="content:'';z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"  data-bg-url=""></div></div></div></div></div>
 
 
