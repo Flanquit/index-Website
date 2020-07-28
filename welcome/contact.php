@@ -5,6 +5,7 @@
 <head>
 <?php include('inc/head.php') ?>
 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
 
 </head>
@@ -50,39 +51,58 @@
 <div class="fusion-fullwidth fullwidth-box fusion-builder-row-4 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling" style="background-color: #256193;background-image: url(&quot;img/aboutback.png&quot;);background-position: center center;background-repeat: no-repeat;padding-top:30px;padding-right:8%;padding-bottom:20%;padding-left:8%;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;"><div class="fusion-builder-row fusion-row "><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-8 fusion-one-half fusion-column-first 1_2" style="margin-top:0px;margin-bottom:0px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );margin-right: 4%;"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-clearfix"></div></div></div><div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_2 fusion-builder-column-9 fusion-one-half fusion-column-last 1_2" style="margin-top:0px;margin-bottom:0px;width:50%;width:calc(50% - ( ( 4% ) * 0.5 ) );"><div class="fusion-column-wrapper" style="padding: 0px 0px 0px 0px;background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;" data-bg-url=""><div class="fusion-text"><h3 style="font-size: 30px; color: white;">Talk To Us </h3>
 <p><span style="color: #ffffff;">
 
-        
+	   
+
 
 <form action="mail.php" method="post">
-            <div class="client-details">
-              <div class="clientName">
-                <!-- <label for="fname"> Name *</label> -->
-                <input type="text" id="fname" name="name" placeholder="Full Name" required="true" maxlength="30">
-			  </div>
-			  <br/>
 
-              <div class="clientPhone">
-                <!-- <label for="phone">Phone Number *</label> -->
-                <input type="text" id="phone" name="phonenumber" placeholder="Phone Number" required="true" maxlength="15">
-			  </div>
-			  <br/>
-            </div>
-            
-          <div class="product-requested">
-            <div class="clientEmail">
-                <!-- <label for="email">Email *</label> -->
-                <input type="text" id="email" name="email" placeholder="Email">
-            </div>
+<div class="row">
+	<div class="col-md-6">
+	<div class="form-group">
+    <label for="exampleInputEmail1">Full Name</label>
+    <input type="text" id="fname"  class="form-control"  name="name" placeholder="Full Name" required="true" maxlength="30">
+  </div>
+	</div>
 
-            
-          </div>
-		  <br/>  
-            <!-- <label for="message">Message</label> -->
-            <textarea id="subject" name="message" placeholder="Type your message" style="height:140px;width:580px;" ></textarea>
-            <br/>  <br/>
-            
-            <input type="submit" value="Send Message">
-            
-          </form>
+
+	<div class="col-md-6">
+	<div class="form-group">
+	<label for="exampleInputEmail1">Phone No</label>
+	<input type="text" id="phone" class="form-control" name="phonenumber" placeholder="Phone Number" required="true" maxlength="15">
+  </div>
+	</div>
+
+</div>
+
+
+<div class="row">
+	<div class="col-md-6">
+	<div class="form-group">
+	<label for="exampleInputEmail1">Email</label>
+    <input type="email" id="email"  class="form-control"  name="email" placeholder="Email" required="true">
+  </div>
+	</div>
+	</div>
+
+<div class="row">
+	<div class="col-md-6">
+	<div class="form-group">
+	<label for="exampleInputEmail1">Message</label>
+	<textarea id="subject" name="message" placeholder="Type your message" style="height:140px;width:580px;" ></textarea>
+        
+  </div>
+	</div>
+</div>
+
+
+
+
+
+
+        
+ 
+<button type="submit" class="btn btn-primary">Submit</button>
+</form>
 
 
 

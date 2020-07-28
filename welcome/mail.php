@@ -23,7 +23,7 @@
         $recipient = "alflanquit@gmail.com";
 
         // Set the email subject.
-        $subject = "Online Web Contact from $name";
+        $subject = "Index New Web Contact from $name";
 
         // Build the email content.
         $email_content .= "Name: $name\n";
@@ -41,7 +41,7 @@
             ?>
               <script type="text/javascript">
               alert("Thank you! Message Have been sent, Index Technologies will contact you soon");
-            document.location.href="index.php";
+            document.location.href="contact.php";
               </script>
               <!-- Redirecting to <a href="sent.php"></a> -->
             <?php
